@@ -1,2 +1,3 @@
-Refer to run.sh to run all experiments with full information on customer distribution (truncated gaussian, piecewise uniform distributions), varying interest rate parameters, initial probability across strategies. 
-Refer to jupyter notebooks for sample convergence analysis.
+- Refer to ProjectReport.pdf for detailed analysis.
+- Refer to run.sh to run all experiments with full information on customer distribution (truncated gaussian, piecewise uniform distributions), varying interest rate parameters, initial probability across strategies. 
+- Refer to jupyter notebooks for sample convergence analysis.
